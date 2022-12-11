@@ -11,4 +11,4 @@ Each data structure has its own directory along with a separate README file.
 |Day         |Topic                                |Sub-Topic                     |
 |:----------:|:-----------------------------------:|:----------------------------:|
 |[01](Day01/day.md)      |Data Structure                       |Introduction                  |
-|[02](Day02/day.md)      |Data Structure                       |Introduction                  |
+|[02](Day02/day.md)      |Linear Data Structures                       |Lists                  |
