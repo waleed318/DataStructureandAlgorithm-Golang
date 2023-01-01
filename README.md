@@ -14,3 +14,4 @@ Each data structure has its own directory along with a separate README file.
 |[02](Day02/day.md)      |Linear Data Structures                       |Lists                  |
 |[03](Day03/day.md)      |Linear Data Structures                       |Tuples                  |
 |[04](Day04/day.md)      |Linear Data Structures                       |Sets                  |
+|[05](Day05/day.md)      |Linear Data Structures                       |Sets in Detail                  |
