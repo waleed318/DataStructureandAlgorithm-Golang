@@ -15,3 +15,6 @@ Each data structure has its own directory along with a separate README file.
 |[03](Day03/day.md)      |Linear Data Structures                       |Tuples                  |
 |[04](Day04/day.md)      |Linear Data Structures                       |Sets                  |
 |[05](Day05/day.md)      |Linear Data Structures                       |Sets in Detail                  |
+|[06](Day06/day.md)      |Linear Data Structures                       |Sets in Detail                  |
+|[07](Day07/day.md)      |Linear Data Structures                       |Queues                  |
+|[08](Day08/day.md)      |Linear Data Structures                       |Dynamic Queue                  |
