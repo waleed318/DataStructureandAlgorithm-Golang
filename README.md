@@ -20,3 +20,5 @@ Each data structure has its own directory along with a separate README file.
 |[08](Day08/day.md)      |Linear Data Structures                       |Dynamic Queue                  |
 |[09](Day09/day.md)      |Linear Data Structures                       |Linked List                  |
 |[10](Day10/day.md)      |Linear Data Structures                       |Linked List - adding more Detail                 |
+|[11](Day11/day.md)      |Linear Data Structures                       |Linked List - Insert,View Node                 |
+|[12](Day12/day.md)      |Linear Data Structures                       |Linked List -  Insert,Delete Node                 |
